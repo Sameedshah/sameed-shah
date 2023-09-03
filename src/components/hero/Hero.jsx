@@ -55,7 +55,7 @@ const Hero = () => {
               <span> Hire Me</span>
             </a>
             <a
-              href="src/assets/Resume.pdf" target={'_blank'}
+              href="src\assets\Resume.pdf" target={'_blank'}
               className="flex items-center gap-2 border- text-[1rem] bg-white border-black px-7 py-2 sm:px-6 rounded-lg font-bold  hover:text-yellow-500"
               download
             >
